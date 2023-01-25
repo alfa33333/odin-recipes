@@ -1,0 +1,14 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.list-container{
+    text-align: center;
+    list-style-type:circle;
+    list-style-position: inside;
+}
