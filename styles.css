@@ -5,10 +5,24 @@ body {
 h1 {
     color: aliceblue;
     text-align: center;
+    font-size: 60px;
+}
+div.parent{
+    text-align: center;
 }
 
-.list-container{
-    text-align: center;
+ul {
+    display: inline-block;
+    text-align: left;
     list-style-type:circle;
     list-style-position: inside;
+}
+li {
+    color: azure;
+    font-size: 25px;
+}
+
+li a {
+    color:white;
+    font-size: 25px;
 }
